@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83da8b9aa9bf8774692e6cb9006a388e, type: 3}
+  m_Name: CustomCrosshair
+  m_EditorClassIdentifier: 
+  generalSettings:
+    useUniversalColor: 1
+    universalColor: {r: 0, g: 1, b: 0, a: 1}
+    sizeMultiplier: 3
+  outlineSettings:
+    enableOutline: 0
+    outlineColor: {r: 0, g: 0, b: 0, a: 1}
+    outlineOpacity: 0
+    outlineThickness: 0
+  dotSettings:
+    centerDotEnabled: 1
+    centerDotColor: {r: 1, g: 0, b: 0, a: 1}
+    centerDotOpacity: 1
+    centerDotThickness: 1
+  innerLineSettings:
+    innerLineEnabled: 1
+    alignWithCenterDot: 0
+    innerLineColor: {r: 0, g: 1, b: 0, a: 1}
+    innerLineOpacity: 1
+    innerLineLength: 2
+    innerLineThickness: 0.5
+    innerLineOffset: 1.75

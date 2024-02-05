@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 8571cfe3ebad83a428b35024e0c776f3
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_blinn6SG
+    second: {fileID: 2100000, guid: d86042bc340fa924b8358d2d03f0ead8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_grass_map_1_polySurface1394_map_1_polySurface1498_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: 08f407818349a2443844820975c6bd3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_grass_map_1_polySurface1394_map_1_polySurface1499_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: a562a1148c9042345b89d165cc8df9ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_grass_map_1_polySurface1394_map_1_polySurface1500_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: 80c0d1097e7735c4281bca04feaf6c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_lambert4SG
+    second: {fileID: 2100000, guid: 553d9058e926e3840a2fb03c94ca6d82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_lambert5SG
+    second: {fileID: 2100000, guid: 2549215ffa6f35d4ab1b4ec96be8f03f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_object
+    second: {fileID: 2100000, guid: a9fb65c034b104f43b36a33a3288db59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_pCylinder84_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: 09b847eed7773664c8238538dc443945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_polySurface1156_map_1_terrain_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: 3603a7c713be5c24fa31f94b223e0c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_polySurface1497_map_1_polySurface1501_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: aa4c22312af161a40bb49dbf0d8d98ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_polySurface1497_map_1_polySurface1502_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: 1a1e640df1848074696e2afdf78b16a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_polySurface1503_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: 26bd5ca8425d16f499c387cac786c844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_polySurface1504_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: a582d033e28b27a4eb4a07b38debcefa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_1_polySurface1505_map_1_polySurface1_group1Mat
+    second: {fileID: 2100000, guid: 52e8f9c074e16e648b939e722de55e98, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
