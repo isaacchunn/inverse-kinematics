@@ -13,7 +13,10 @@ Sample scene made using Unity 2019.4.1f.
 
 **Head IK**
 ![headik](https://github.com/isaacchunn/inverse-kinematics/blob/main/Images/headik.gif)
-   **Hands IK**    
+---
+**Hands IK**    
 ![handsik](https://github.com/isaacchunn/inverse-kinematics/blob/main/Images/handik.gif)	
+---
 **Feet IK**
 ![feetIK](https://github.com/isaacchunn/inverse-kinematics/blob/main/Images/feetik.gif)
+---
